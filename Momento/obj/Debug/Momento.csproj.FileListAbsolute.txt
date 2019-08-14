@@ -1,0 +1,7 @@
+C:\Users\mkuna\source\repos\DesignPatterns\Momento\bin\Debug\Momento.exe.config
+C:\Users\mkuna\source\repos\DesignPatterns\Momento\bin\Debug\Momento.exe
+C:\Users\mkuna\source\repos\DesignPatterns\Momento\bin\Debug\Momento.pdb
+C:\Users\mkuna\source\repos\DesignPatterns\Momento\obj\Debug\Momento.csprojAssemblyReference.cache
+C:\Users\mkuna\source\repos\DesignPatterns\Momento\obj\Debug\Momento.csproj.CoreCompileInputs.cache
+C:\Users\mkuna\source\repos\DesignPatterns\Momento\obj\Debug\Momento.exe
+C:\Users\mkuna\source\repos\DesignPatterns\Momento\obj\Debug\Momento.pdb

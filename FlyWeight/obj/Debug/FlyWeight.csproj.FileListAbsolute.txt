@@ -1,0 +1,7 @@
+C:\Users\mkuna\source\repos\DesignPatterns\FlyWeight\bin\Debug\FlyWeight.exe.config
+C:\Users\mkuna\source\repos\DesignPatterns\FlyWeight\bin\Debug\FlyWeight.exe
+C:\Users\mkuna\source\repos\DesignPatterns\FlyWeight\bin\Debug\FlyWeight.pdb
+C:\Users\mkuna\source\repos\DesignPatterns\FlyWeight\obj\Debug\FlyWeight.csprojAssemblyReference.cache
+C:\Users\mkuna\source\repos\DesignPatterns\FlyWeight\obj\Debug\FlyWeight.csproj.CoreCompileInputs.cache
+C:\Users\mkuna\source\repos\DesignPatterns\FlyWeight\obj\Debug\FlyWeight.exe
+C:\Users\mkuna\source\repos\DesignPatterns\FlyWeight\obj\Debug\FlyWeight.pdb
